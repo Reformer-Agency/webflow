@@ -1,4 +1,9 @@
 
+<script>
+        alert("Hello, World!");
+</script>
+
+
 <!-- Keep this css code to improve the font quality-->
 <style>
   * {
