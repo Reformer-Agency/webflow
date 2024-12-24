@@ -138,5 +138,3 @@ const paymentButtons = document.querySelectorAll(".data-payment-class");
 </script>
 
 <!-- this is something I found on the Pricing Page of the website -->
-
->
